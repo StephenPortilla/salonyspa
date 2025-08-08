@@ -79,7 +79,7 @@
         }
         
         .hero {
-            background-image: url('../spa.png');
+            background-image: url('spa.png');
             height: 100vh;
             background-size: cover;
             background-position: center;
@@ -555,4 +555,5 @@
             .section-title h2 {
                 font-size: 2rem;
             }
+
         }
